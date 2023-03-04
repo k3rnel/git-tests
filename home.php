@@ -1,3 +1,5 @@
 <?php
+$text = 'text';
+?>
 
-<h1 class="container"><?='stex eeeeerkar texta'?></h1>
+<h1 class="main-container"><?=$text?></h1>
