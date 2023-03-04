@@ -1,4 +1,5 @@
 <?php
 $text = 'text';
 ?>
-<h1 class="container"><?=$text?></h1>
+
+<h1 class="main-container"><?=$text?></h1>
