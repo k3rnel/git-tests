@@ -1,3 +1,3 @@
 <?php
 
-<h1 class="container"><?='stex eeeeerkar texta'?></h1>
+<h1 class="main-container"><?='stex eeeeerkar texta'?></h1>
